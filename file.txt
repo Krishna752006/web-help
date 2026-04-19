@@ -2,3 +2,5 @@ CSS Custon Animations --> https://cssanimation.io/
 UI Components --> https://uiverse.io/
 3D gradient generator --> https://neat.firecms.co/
 Some Templates --> https://github.com/ln-dev7/square-ui
+Frontend Inspiration 1 --> https://www.awwwards.com/
+Frontend Inspiration 2 --> https://startups.gallery/
