@@ -4,3 +4,9 @@ UI Components --> https://uiverse.io/
 Some Templates --> https://github.com/ln-dev7/square-ui
 Frontend Inspiration 1 --> https://www.awwwards.com/
 Frontend Inspiration 2 --> https://startups.gallery/
+
+IDEs:
+1. Cursor
+2. Windsurf
+3. Trae
+4. Google Antigravity
