@@ -10,3 +10,9 @@ IDEs:
 2. Windsurf
 3. Trae
 4. Google Antigravity
+
+Web Building Sites:
+1. Bolt
+2. V0
+3. Loveable
+4. Softgen
