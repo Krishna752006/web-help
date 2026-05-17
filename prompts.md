@@ -73,6 +73,21 @@ Use lucide-react for Phone, Mail, MapPin icons. For Instagram and Facebook, use 
 
 App.tsx: Wire all 5 slides into the Presentation component in order: CoverSlide, IntroSlide, AnalyticsSlide, QuoteSlide, OutroSlide.
 
-# 2. Style Prompts --> https://www.designprompts.dev/
-# 3. Components Prompts --> 21st.dev
-# 4. Style, Components and Animation Prompts --> superdesign.dev
+# 2. Hover on Image Site Prompt (give 2 images)
+
+Create a personal portfolio landing page for [YOUR NAME] built as a single full-screen hero that occupies the entire viewport. Use a large portrait image [IMAGE ONE] as the background, centered and scaled to cover the screen. Place my name in the top-left corner in an elegant serif font such as Playfair Display, with the first and last name stacked on separate lines. In the top-right corner, add a simple navigation link labeled 'F1 Records'.
+
+In the bottom-right corner, include links to Instagram and X/Twitter using solid, filled SVG icons so they remain clearly visible and easy to recognize. Each icon should link to the appropriate social profile.
+
+The primary interaction should be a circular highlight cursor that follows the mouse smoothly with a slight delay. This round spotlight acts as a reveal mask, exposing a second version of the portrait [IMAGE TWO] beneath the main image. As the user moves the cursor, it should feel like they are scanning across an alternate layer of the photo.
+
+When the cursor moves faster, the circular highlight should leave behind soft, fading echoes that quickly dissolve, adding motion and responsiveness. In the background, add a subtle animated grid pattern that gently reacts to cursor movement, creating depth while staying understated.
+
+All text elements, including the name, the “F1 Records” link, and the social icons, should dynamically invert to white when the circular highlight passes over them to maintain contrast. Use smooth transitions of around 300ms. Apply a light parallax effect where elements shift slightly opposite to cursor movement. The overall look should remain minimal and refined, with a clean white base and the imagery and interaction as the visual centerpiece.
+
+# 3. Web Site Style Prompts --> https://www.designprompts.dev/
+# 3.5. Basic Component Prompts --> https://vibeui.online/
+# 4. Good Components Prompts --> https://21st.dev/community/components
+# 5. Style, Components and Animation Prompts --> https://app.superdesign.dev/library
+# 6. Web Templates Prompts --> https://motionsites.ai/
+# 7. Design Prompts of other Websites --> https://getdesign.md/
