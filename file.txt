@@ -5,6 +5,8 @@ Some Templates --> https://github.com/ln-dev7/square-ui
 Frontend Inspiration 1 --> https://www.awwwards.com/
 Frontend Inspiration 2 --> https://startups.gallery/
 
+UI Hacks --> https://www.youtube.com/watch?v=7pK_mjC_Ei0
+
 IDEs:
 1. Cursor
 2. Windsurf
