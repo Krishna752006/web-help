@@ -7,6 +7,15 @@ Frontend Inspiration 2 --> https://startups.gallery/
 
 UI Hacks --> https://www.youtube.com/watch?v=7pK_mjC_Ei0
 
+Portfolio Help:
+1. 7 Portfolio Wesited for Inspiration --> https://www.youtube.com/watch?v=5O0YDHiosD0
+2. Crazy Portfolio --> https://github.com/prashantkoirala465/web-development-portfolio
+3. Notion Guide for Creating Portfolio --> https://www.notion.so/Scroll-Animated-Portfolio-Website-for-free-Step-by-Step-Guide-3050d2ba3ca08024a842d4340fdf98fd
+
+Gemini Workflows:
+1. Part 1 --> https://x.com/viktoroddy/status/2031278069969989651
+2. Part 2 --> https://x.com/viktoroddy/status/2029863565445005766
+
 IDEs:
 1. Cursor
 2. Windsurf
