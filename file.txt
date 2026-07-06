@@ -12,6 +12,7 @@ Portfolio Help:
 2. Crazy Portfolio --> https://github.com/prashantkoirala465/web-development-portfolio
 3. Notion Guide for Creating Portfolio --> https://www.notion.so/Scroll-Animated-Portfolio-Website-for-free-Step-by-Step-Guide-3050d2ba3ca08024a842d4340fdf98fd
 4. Portfolio + GitHub for reference --> https://github.com/ig-imanish
+5. Pruthvi Inspiration --> https://pruthvidharreddykotha-portfolio.vercel.app/
 
 Gemini Workflows:
 1. Part 1 --> https://x.com/viktoroddy/status/2031278069969989651
