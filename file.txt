@@ -18,6 +18,13 @@ Gemini Workflows:
 1. Part 1 --> https://x.com/viktoroddy/status/2031278069969989651
 2. Part 2 --> https://x.com/viktoroddy/status/2029863565445005766
 
+A Proper Stack:
+1. Lenis --> Smooth Scroll
+2. GSAP --> Scroll Animation
+3. Rive --> Vector Animation
+4. Three.js --> 3D Animation
+5. Taxi.js --> Page Transition
+
 IDEs:
 1. Cursor
 2. Windsurf
