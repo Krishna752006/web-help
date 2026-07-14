@@ -91,3 +91,4 @@ All text elements, including the name, the “F1 Records” link, and the social
 # 5. Style, Components and Animation Prompts --> https://app.superdesign.dev/library
 # 6. Web Templates Prompts --> https://motionsites.ai/
 # 7. Design Prompts of other Websites --> https://getdesign.md/
+# 8. Cool Animation Prompts --> https://reactbits.dev/get-started/introduction
