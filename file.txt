@@ -7,6 +7,8 @@ Frontend Inspiration 2 --> https://startups.gallery/
 
 UI Hacks --> https://www.youtube.com/watch?v=7pK_mjC_Ei0
 
+Article on 50 Different Design Styles for AI Era --> https://uxplanet.org/50-design-styles-every-designer-should-know-for-better-prompting-56c09d55db62
+
 Portfolio Help:
 1. 7 Portfolio Wesited for Inspiration --> https://www.youtube.com/watch?v=5O0YDHiosD0
 2. Crazy Portfolio --> https://github.com/prashantkoirala465/web-development-portfolio
